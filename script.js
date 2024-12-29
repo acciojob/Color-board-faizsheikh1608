@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
       // Remove color after 1 second
       setTimeout(() => {
-        square.style.backgroundColor = rgb(221, 221, 221);  // Default color after hover
+        square.style.backgroundColor = rgb(29, 29, 29);  // Default color after hover
       }, 1000);
     });
   }
